@@ -20,7 +20,7 @@ Use the following steps to run the application locally:
     $ mvn liberty:run-server
     ```
 
-    Once the server is running, the application will be available under [http://localhost:9080/JavaHelloWorldApp](http://localhost:9080/JavaHelloWorldApp).
+    Once the server is running, the application will be available under [http://localhost:9080/JavaLiveMarketApp](http://localhost:9080/JavaHelloWorldApp).
 
 Use the following command to run the built application in Bluemix:
     ```bash

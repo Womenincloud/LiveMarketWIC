@@ -20,7 +20,7 @@ Use the following steps to run the application locally:
     $ mvn liberty:run-server
     ```
 
-    Once the server is running, the application will be available under [http://localhost:9080/JavaLiveMarketWICApp](http://localhost:9080/JavaHelloWorldApp).
+    Once the server is running, the application will be available under [http://localhost:9080/JavaLiveMarketApp/](http://localhost:9080/JavaHelloWorldApp).
 
 Use the following command to run the built application in Bluemix:
     ```bash
@@ -43,9 +43,9 @@ IBM® Eclipse Tools for Bluemix® provides plug-ins that can be installed into a
   - Continue the wizard with default options to Finish
 
 4. Run your application locally on Liberty:
-  - Right click on the `JavaHelloWorldApp` sample and select `Run As` -> `Run on Server` option
+  - Right click on the `LiveMarketWIC` sample and select `Run As` -> `Run on Server` option
   - Find and select the localhost Liberty server and press `Finish`
-  - In a few seconds, your application should be running at http://localhost:9080/JavaHelloWorldApp/
+  - In a few seconds, your application should be running at http://localhost:9080/JavaLiveMarketApp/
 
 5. Create a Bluemix server definition:
   - In the `Servers` view, right-click -> `New` -> `Server`

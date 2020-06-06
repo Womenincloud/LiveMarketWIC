@@ -1,4 +1,4 @@
-# Java Hello World Sample
+# Live Market WIC
 
 This project contains a simple servlet application.
 
